@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+opencv-python
+opencv-contrib-python
+numpy
+scipy
+scikit-image
